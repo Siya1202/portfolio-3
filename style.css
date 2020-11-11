@@ -1,0 +1,29 @@
+
+            h1 {
+                color: brown;
+                padding-left: 30px;
+            }
+
+            * {
+                border: solid;
+            }
+            .header{
+                background-color:cadetblue;
+                display:flex; 
+                justify-content: space-between;
+            }
+            .grid{
+                display:flex;
+                align-items: stretch;
+                flex-wrap:wrap;
+            }
+            .footer{
+                display:flex;
+                justify-content: flex-end;
+            }
+            p,h2{
+                text-align:center;
+            }
+            body{
+                background-color: #808080;
+            }
